@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+This is a repository for the first ablog app of the Complete Ruby on Rails Developer Course.
